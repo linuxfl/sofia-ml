@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src
+END
+sf-kmeans-methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-kmeans-methods.h
+END
+sf-kmeans-methods_test.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-kmeans-methods_test.dat
+END
+sf-cluster-centers_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-cluster-centers_test.cc
+END
+sf-cluster-centers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-cluster-centers.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/Makefile
+END
+sf-cluster-centers.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-cluster-centers.h
+END
+sf-cluster-centers_test.dat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-cluster-centers_test.dat
+END
+sofia-kmeans.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sofia-kmeans.cc
+END
+sf-kmeans-methods_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-kmeans-methods_test.cc
+END
+sf-kmeans-methods.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/cluster-src/sf-kmeans-methods.cc
+END

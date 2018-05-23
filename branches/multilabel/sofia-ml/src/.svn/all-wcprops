@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/42/branches/multilabel/sofia-ml/src
+END
+sf-weight-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/34/branches/multilabel/sofia-ml/src/sf-weight-vector.h
+END
+sf-multi-label-weight-vector_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-multi-label-weight-vector_test.cc
+END
+sf-sparse-vector_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-sparse-vector_test.cc
+END
+sf-multi-label-weight-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-multi-label-weight-vector.cc
+END
+sf-sparse-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-sparse-vector.cc
+END
+sf-hash-inline_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-hash-inline_test.cc
+END
+sf-multi-label-weight-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-multi-label-weight-vector.h
+END
+sf-hash-inline.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-hash-inline.cc
+END
+sf-sparse-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-sparse-vector.h
+END
+sf-data-set_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-data-set_test.cc
+END
+sofia-ml.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/42/branches/multilabel/sofia-ml/src/sofia-ml.cc
+END
+sofia-ml-methods_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/branches/multilabel/sofia-ml/src/sofia-ml-methods_test.cc
+END
+sf-hash-inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-hash-inline.h
+END
+sf-data-set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-data-set.cc
+END
+sofia-ml-methods.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sofia-ml-methods.cc
+END
+sf-data-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-data-set.h
+END
+sofia-ml-methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sofia-ml-methods.h
+END
+sf-hash-weight-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-hash-weight-vector.cc
+END
+sf-hash-weight-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-hash-weight-vector.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/34/branches/multilabel/sofia-ml/src/Makefile
+END
+sf-data-set_test.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/branches/multilabel/sofia-ml/src/sf-data-set_test.dat
+END
+simple-cmd-line-helper_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/simple-cmd-line-helper_test.cc
+END
+sf-weight-vector_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-weight-vector_test.cc
+END
+sf-weight-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/src/sf-weight-vector.cc
+END
+simple-cmd-line-helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/33/branches/multilabel/sofia-ml/src/simple-cmd-line-helper.h
+END

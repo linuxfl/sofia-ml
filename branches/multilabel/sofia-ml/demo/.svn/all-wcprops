@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/demo
+END
+demo.train
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/demo/demo.train
+END
+demo.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/32/branches/multilabel/sofia-ml/demo/demo.test
+END
